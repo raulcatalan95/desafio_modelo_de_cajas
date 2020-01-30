@@ -1,0 +1,102 @@
+.rojo{
+  height: 50px;
+  width: 400px;
+  background-color: red;
+}
+.amarillo{
+  height: 100px;
+  width: 400px;
+  background-color: yellow;
+}
+.españa{
+  border: 2px solid black;
+}
+.dinamarca{
+  width: 400px;
+  height: 200px;
+  border: 2px solid gray;
+  background-color: white;
+  margin-left: 30px;
+
+}
+.izquierdo-arriba{
+  height: 90px;
+  width: 90px;
+  background-color: red;
+  border-bottom: 10px solid white;
+}
+.derecha-arriba{
+  height: 90px;
+  width: 290px;
+  background-color: red;
+  border-bottom: 10px solid white;
+  border-left: 20px solid white;
+
+}
+
+.izquierdo-abajo{
+  height: 90px;
+  width: 90px;
+  background-color: red;
+  border-right: 20px solid white;
+  border-top: 6px solid white;
+
+}
+
+.derecha-abajo{
+  height: 90px;
+  width: 290px;
+  background-color: red;
+  border-top: 6px solid white
+
+}
+.arriba{
+  display: inline-flex;
+}
+.abajo{
+  display: inline-flex;
+}
+.españa-dinamrca{
+  display: inline-flex;
+  vertical-align: top;
+}
+.arabe{
+  height: 200px;
+  width: 400px;
+  border: 2px solid gray;
+  background-color: black;
+  display: inline-flex;
+}
+.izquierda{
+  height: 100%;
+  width: 90px;
+  background-color: red;
+}
+.verde{
+  width: 310px;
+  height: 66px;
+  background-color: green;
+
+}
+.blanco{
+  width: 310px;
+  height: 67px;
+  background-color: white;
+}
+.japon{
+  width: 400px;
+  height: 200px;
+  border: 2px solid black;
+  margin-left: 30px;
+}
+.circulo-rojo{
+  width: 100px;
+  height:100px;
+  background-color: red;
+  margin: 50px 150px 50px 150px;
+  border-radius: 50%;
+}
+.arabe-japon{
+  display: inline-flex;
+  margin-top: 30px;
+}

@@ -1,0 +1,13 @@
+.bateria img{
+  height: 400px;
+  width: 400px;
+
+}
+.ribbon img{
+  height: 80px;
+  width: 80px;
+  left: 310px;
+  position: absolute;
+  top: 300px;
+
+ }
